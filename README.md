@@ -1,2 +1,3 @@
-# Hello there
-This is my personal website.
+# hi
+
+this is my personal website
